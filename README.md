@@ -10,3 +10,6 @@ jar xvf library_out.jar
 then run strings on the two class files that are produced to see the enumerated files.  
 
 This was run with the latest proguard (v5.3.3) at the time
+
+
+Note, this is related to this stack exchange question:  https://stackoverflow.com/questions/45906569/proguard-keeping-enumerated-type-names-in-class-file
